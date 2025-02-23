@@ -1,0 +1,4 @@
+site_name: Machine Learning Notes
+site_url: https://huruifeng.github.io/mlnotes
+theme:
+  name: material
