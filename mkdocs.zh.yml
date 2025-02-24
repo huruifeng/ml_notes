@@ -1,0 +1,51 @@
+site_name: "Ruifeng的笔记 - 机器学习"
+site_url: https://huruifeng.github.io/ml_notes/zh/
+site_author: Ruifeng Hu
+site_description: >-
+  一步一步学习机器学习知识
+
+repo_name: huruifeng/ml_notes
+repo_url: https://github.com/huruifeng/ml_notes
+
+copyright: Copyright &copy; 2024 Ruifeng Hu
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: zh
+  alternate: true
+  palette: 
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: 切换到浅色模式
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/weather-sunny
+        name: 切换到深色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: 切换到系统偏好
+  features:
+    - navigation.instant
+    - navigation.top
+
+extra:
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: 中文
+      link: /zh/
+      lang: zh
+
+nav:
+  - 首页: index.md
+  - 入门指南:
+    - 安装: getting-started.md
+    - 创建你的站点: creating-your-site.md
+  - 博客:
+    - blog/index.md

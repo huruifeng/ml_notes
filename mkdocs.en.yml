@@ -1,0 +1,51 @@
+site_name: "Ruifeng's Notes - Machine Learning"
+site_url: https://huruifeng.github.io/ml_notes/en/
+site_author: Ruifeng Hu
+site_description: >-
+  Learn about Machine Learning.
+
+repo_name: huruifeng/ml_notes
+repo_url: https://github.com/huruifeng/ml_notes
+
+copyright: Copyright &copy; 2024 Ruifeng Hu
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: en
+  alternate: true
+  palette: 
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to system preference
+  features:
+    - navigation.instant
+    - navigation.top
+
+extra:
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: 中文
+      link: /zh/
+      lang: zh
+
+nav:
+  - Home: index.md
+  - Getting started:
+    - Installation: getting-started.md
+    - Creating your site: creating-your-site.md
+  - Blog:
+    - blog/index.md
