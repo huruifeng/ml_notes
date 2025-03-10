@@ -1,4 +1,4 @@
-# This is a demo page
+# This is a advanced page
 
 ## Commands
 

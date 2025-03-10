@@ -1,5 +1,4 @@
-# 这是Demo页
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# This is a start page
 
 ## Commands
 
