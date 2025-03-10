@@ -1,4 +1,5 @@
-# Machine Learning and Artificial Intelligence Notes
+# 这是Demo页
+For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
 

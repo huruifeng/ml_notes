@@ -1,4 +1,4 @@
-# Machine Learning and Artificial Intelligence Notes
+# This is a demo page
 
 ## Commands
 

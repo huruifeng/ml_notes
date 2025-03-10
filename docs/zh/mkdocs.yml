@@ -44,8 +44,10 @@ extra:
 
 nav:
   - 首页: index.md
-  - 入门指南:
-    - 安装: getting-started.md
-    - 创建你的站点: creating-your-site.md
+  - Python学习: 
+    - python/index.md
+    - 安装: python/install.md
+    - 基础知识: python/basics.md
+    - 进阶知识: python/advanced.md
   - 博客:
     - blog/index.md

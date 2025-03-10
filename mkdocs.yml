@@ -13,7 +13,7 @@ theme:
   name: material
   custom_dir: overrides
   language: en  # Default UI language
-  alternate: true  # Show language switcher
+
   palette: 
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -36,6 +36,7 @@ theme:
         name: Switch to system preference
   features:
     - navigation.instant
+    - navigation.indexes
     - navigation.instant.progress
     - navigation.tracking
     # - navigation.tabs
@@ -47,17 +48,18 @@ theme:
 extra:
   alternate:
     - name: English
-      link: en/
+      link: /en/
       lang: en
     - name: 中文
-      link: zh/
+      link: /zh/
       lang: zh
+
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/huruifeng
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/ruifeng-hu-702b9383/
-    - icon: fontawesome/solid/paper-plane
+    - icon: fontawesome/solid/envelope
       link: mailto:huruifeng.cn@hotmail.com
 
 
