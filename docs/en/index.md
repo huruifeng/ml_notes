@@ -1,6 +1,6 @@
 ---
 template: home.html
-title: MkDocs static i18n plugin
+title: Ruifeng's Notes
 ---
 
 # MkDocs static i18n plugin

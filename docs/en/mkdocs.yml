@@ -60,38 +60,6 @@ extra_css:
 extra_javascript:
   - assets/js/myscript.js
 
-markdown_extensions:
-
-  # Python Markdown
-  - abbr
-  - admonition
-  - attr_list
-  - def_list
-  - footnotes
-  - md_in_html
-  - toc:
-      permalink: true
-
-    # Python Markdown Extensions
-  - pymdownx.arithmatex:
-      generic: true
-  - pymdownx.betterem:
-      smart_enable: all
-  - pymdownx.caret
-  - pymdownx.details
-  - pymdownx.highlight
-  - pymdownx.inlinehilite
-  - pymdownx.keys
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tilde
-  - pymdownx.snippets
-
 
 plugins:
   - search
@@ -115,7 +83,6 @@ plugins:
               primary: red
           nav_translations:
             Home: 首页
-            Python install: Python 安装
             Python basics: Python 基础
             Python advanced: Python 进阶
             Machine learning: 机器学习
@@ -127,7 +94,6 @@ nav:
   - Home: index.md
   - Python:
     - python/index.md
-    - Python install: python/python_install.md
     - Python basics: python/python_basics.md
     - Python advanced: python/python_advanced.md
   - Machine learning:

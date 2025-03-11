@@ -1,6 +1,6 @@
 ---
 template: home.zh.html
-title: MkDocs static i18n plugin
+title: 胡瑞峰的笔记
 ---
 
 # MkDocs static i18n plugin
