@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://huruifeng.github.io/ml_notes/</loc>
+        <lastmod>2025-03-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huruifeng.github.io/ml_notes/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huruifeng.github.io/ml_notes/zh/"/>
+    </url>
+    <url>
+        <loc>https://huruifeng.github.io/ml_notes/advanced/</loc>
+        <lastmod>2025-03-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huruifeng.github.io/ml_notes/advanced/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huruifeng.github.io/ml_notes/zh/advanced/"/>
+    </url>
+    <url>
+        <loc>https://huruifeng.github.io/ml_notes/getting-started/</loc>
+        <lastmod>2025-03-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huruifeng.github.io/ml_notes/getting-started/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huruifeng.github.io/ml_notes/zh/getting-started/"/>
+    </url>
+    <url>
+        <loc>https://huruifeng.github.io/ml_notes/machine_learning/</loc>
+        <lastmod>2025-03-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huruifeng.github.io/ml_notes/machine_learning/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huruifeng.github.io/ml_notes/zh/machine_learning/"/>
+    </url>
+    <url>
+        <loc>https://huruifeng.github.io/ml_notes/machine_learning/machine_learning_advanced/</loc>
+        <lastmod>2025-03-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huruifeng.github.io/ml_notes/machine_learning/machine_learning_advanced/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huruifeng.github.io/ml_notes/zh/machine_learning/machine_learning_advanced/"/>
+    </url>
+    <url>
+        <loc>https://huruifeng.github.io/ml_notes/machine_learning/machine_learning_basics/</loc>
+        <lastmod>2025-03-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huruifeng.github.io/ml_notes/machine_learning/machine_learning_basics/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huruifeng.github.io/ml_notes/zh/machine_learning/machine_learning_basics/"/>
+    </url>
+    <url>
+        <loc>https://huruifeng.github.io/ml_notes/python/</loc>
+        <lastmod>2025-03-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huruifeng.github.io/ml_notes/python/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huruifeng.github.io/ml_notes/zh/python/"/>
+    </url>
+    <url>
+        <loc>https://huruifeng.github.io/ml_notes/python/python_advanced/</loc>
+        <lastmod>2025-03-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huruifeng.github.io/ml_notes/python/python_advanced/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huruifeng.github.io/ml_notes/zh/python/python_advanced/"/>
+    </url>
+    <url>
+        <loc>https://huruifeng.github.io/ml_notes/python/python_basics/</loc>
+        <lastmod>2025-03-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huruifeng.github.io/ml_notes/python/python_basics/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huruifeng.github.io/ml_notes/zh/python/python_basics/"/>
+    </url>
+    <url>
+        <loc>https://huruifeng.github.io/ml_notes/zh/</loc>
+        <lastmod>2025-03-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huruifeng.github.io/ml_notes/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huruifeng.github.io/ml_notes/"/>
+    </url>
+    <url>
+        <loc>https://huruifeng.github.io/ml_notes/zh/advanced/</loc>
+        <lastmod>2025-03-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huruifeng.github.io/ml_notes/zh/advanced/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huruifeng.github.io/ml_notes/advanced/"/>
+    </url>
+    <url>
+        <loc>https://huruifeng.github.io/ml_notes/zh/getting-started/</loc>
+        <lastmod>2025-03-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huruifeng.github.io/ml_notes/zh/getting-started/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huruifeng.github.io/ml_notes/getting-started/"/>
+    </url>
+    <url>
+        <loc>https://huruifeng.github.io/ml_notes/zh/machine_learning/</loc>
+        <lastmod>2025-03-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huruifeng.github.io/ml_notes/zh/machine_learning/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huruifeng.github.io/ml_notes/machine_learning/"/>
+    </url>
+    <url>
+        <loc>https://huruifeng.github.io/ml_notes/zh/machine_learning/machine_learning_advanced/</loc>
+        <lastmod>2025-03-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huruifeng.github.io/ml_notes/zh/machine_learning/machine_learning_advanced/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huruifeng.github.io/ml_notes/machine_learning/machine_learning_advanced/"/>
+    </url>
+    <url>
+        <loc>https://huruifeng.github.io/ml_notes/zh/machine_learning/machine_learning_basics/</loc>
+        <lastmod>2025-03-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huruifeng.github.io/ml_notes/zh/machine_learning/machine_learning_basics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huruifeng.github.io/ml_notes/machine_learning/machine_learning_basics/"/>
+    </url>
+    <url>
+        <loc>https://huruifeng.github.io/ml_notes/zh/python/</loc>
+        <lastmod>2025-03-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huruifeng.github.io/ml_notes/zh/python/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huruifeng.github.io/ml_notes/python/"/>
+    </url>
+    <url>
+        <loc>https://huruifeng.github.io/ml_notes/zh/python/python_advanced/</loc>
+        <lastmod>2025-03-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huruifeng.github.io/ml_notes/zh/python/python_advanced/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huruifeng.github.io/ml_notes/python/python_advanced/"/>
+    </url>
+    <url>
+        <loc>https://huruifeng.github.io/ml_notes/zh/python/python_basics/</loc>
+        <lastmod>2025-03-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huruifeng.github.io/ml_notes/zh/python/python_basics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://huruifeng.github.io/ml_notes/python/python_basics/"/>
+    </url>
+    <url>
+        <loc>https://huruifeng.github.io/ml_notes/zh/python/python_install/</loc>
+        <lastmod>2025-03-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://huruifeng.github.io/ml_notes/zh/python/python_install/"/>
+    </url>
+</urlset>
